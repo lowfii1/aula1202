@@ -1,4 +1,5 @@
 <?php
+
 try {
     // a variavel $pdo éuma nova instancia de PDO
     $pdo = new PDO("mysql:dbname=crud;host=localhost", "root", "");
